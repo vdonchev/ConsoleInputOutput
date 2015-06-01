@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 [Sum of 3 Numbers]", "01 [Sum of 3 Numbers]", "{FBE25BC4-1A33-42BD-A24F-DF3303E33BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOf3Numbers", "SumOf3Numbers\SumOf3Numbers.csproj", "{BF9927A3-9648-4531-9597-15D174BD75C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 [Print Company Information]", "02 [Print Company Information]", "{2334F05C-7DAB-4013-B8D6-E38D31543EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintCompanyInformation", "PrintCompanyInformation\PrintCompanyInformation.csproj", "{CBEB3A50-D7F6-4B94-90FA-58167A97EDF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 [Circle Perimeter and Area]", "03 [Circle Perimeter and Area]", "{01F6DC39-0885-48AF-B6B5-0A39B79788D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclePerimeterАndArea", "CirclePerimeterАndArea\CirclePerimeterАndArea.csproj", "{6EF54B22-AED2-4F21-A03D-567BA3C8F9EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 [Number Comparer]", "04 [Number Comparer]", "{98597DCA-44D6-43D6-8474-DB392DAA5A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberComparer", "NumberComparer\NumberComparer.csproj", "{80F02B9D-F1F5-4B1E-8E45-22A82146EDC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 [Formatting Numbers]", "05 [Formatting Numbers]", "{3C5E93D5-F771-47D5-B945-D9CD418E4E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingNumbers", "FormattingNumbers\FormattingNumbers.csproj", "{EE79A62B-D8AC-47E8-B2BA-745D0EDFADFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9927A3-9648-4531-9597-15D174BD75C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9927A3-9648-4531-9597-15D174BD75C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9927A3-9648-4531-9597-15D174BD75C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9927A3-9648-4531-9597-15D174BD75C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEB3A50-D7F6-4B94-90FA-58167A97EDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEB3A50-D7F6-4B94-90FA-58167A97EDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEB3A50-D7F6-4B94-90FA-58167A97EDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEB3A50-D7F6-4B94-90FA-58167A97EDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF54B22-AED2-4F21-A03D-567BA3C8F9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF54B22-AED2-4F21-A03D-567BA3C8F9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF54B22-AED2-4F21-A03D-567BA3C8F9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF54B22-AED2-4F21-A03D-567BA3C8F9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F02B9D-F1F5-4B1E-8E45-22A82146EDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F02B9D-F1F5-4B1E-8E45-22A82146EDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F02B9D-F1F5-4B1E-8E45-22A82146EDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F02B9D-F1F5-4B1E-8E45-22A82146EDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE79A62B-D8AC-47E8-B2BA-745D0EDFADFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE79A62B-D8AC-47E8-B2BA-745D0EDFADFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE79A62B-D8AC-47E8-B2BA-745D0EDFADFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE79A62B-D8AC-47E8-B2BA-745D0EDFADFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF9927A3-9648-4531-9597-15D174BD75C1} = {FBE25BC4-1A33-42BD-A24F-DF3303E33BF2}
+		{CBEB3A50-D7F6-4B94-90FA-58167A97EDF4} = {2334F05C-7DAB-4013-B8D6-E38D31543EC0}
+		{6EF54B22-AED2-4F21-A03D-567BA3C8F9EA} = {01F6DC39-0885-48AF-B6B5-0A39B79788D4}
+		{80F02B9D-F1F5-4B1E-8E45-22A82146EDC2} = {98597DCA-44D6-43D6-8474-DB392DAA5A1C}
+		{EE79A62B-D8AC-47E8-B2BA-745D0EDFADFA} = {3C5E93D5-F771-47D5-B945-D9CD418E4E37}
+	EndGlobalSection
+EndGlobal
