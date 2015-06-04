@@ -2,7 +2,7 @@
 
 public class CatchTheBits
 {
-    static void Main(string[] args)
+    static void Main()
     {
         int bits = int.Parse(Console.ReadLine());
         int step = int.Parse(Console.ReadLine());
